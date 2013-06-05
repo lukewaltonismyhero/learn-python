@@ -1,4 +1,5 @@
-# This is the first class assignment. You could cheat and read below to see what it is, but it's much more fun to run the script in the command line! Then you can see what Line 20 is all about =)
+# You could cheat and read below to see what this program does, but it's much more fun to run the the program in the command line! 
+# Then you can see what Line 20 is all about =)
 print '_-*-_'*16
 print '\n'
 import this
