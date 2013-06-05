@@ -11,4 +11,4 @@ print "You've just uncovered the 'secret' guide for programmers who want to thin
 
 print '\n'
 # What is this?? Oh me, oh my!
-print "(\__/)\n(='.'=)\n(\")_(\"i)"
+print "(\__/)\n(='.'=)\n(\")_(\")"
